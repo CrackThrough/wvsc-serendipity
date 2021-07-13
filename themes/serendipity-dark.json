@@ -1,7 +1,7 @@
 {
-  "name": "Serendipity Dark",
-  "type": "dark",
-  "colors": {
+	"name": "Serendipity Dark",
+	"type": "dark",
+	"colors": {
 		"focusBorder": "#596171",
 		"foreground": "#707a8c",
 		"widget.shadow": "#141925",
@@ -199,7 +199,6 @@
 	"tokenColors": [
 		{
 			"settings": {
-
 				"foreground": "#cbccc6"
 			}
 		},
